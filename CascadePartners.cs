@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace DecaySchemeApp
+namespace DecaySchemeTool
 {
     public partial class CascadePartners : Form
     {

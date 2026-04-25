@@ -6,7 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace DecaySchemeApp
+namespace DecaySchemeTool
 {
     public partial class AppUI : Form
     {

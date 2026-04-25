@@ -1,4 +1,4 @@
-﻿namespace DecaySchemeApp
+﻿namespace DecaySchemeTool
 {
     partial class AppUI
     {

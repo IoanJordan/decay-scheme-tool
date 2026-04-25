@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DecaySchemeApp
+namespace DecaySchemeTool
 {
     public class Peak
     {

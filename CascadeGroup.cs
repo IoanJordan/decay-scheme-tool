@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Linq;
 
-namespace DecaySchemeApp
+namespace DecaySchemeTool
 {
     public class CascadeGroup
     {

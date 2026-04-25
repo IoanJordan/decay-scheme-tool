@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DecaySchemeApp
+namespace DecaySchemeTool
 {
     public class GateFile
     {
